@@ -35,4 +35,4 @@ To run the script, ensure the following are installed:
 - Required Python Libraries:
   - `pandas`: For data manipulation and analysis.
   - `fpdf`: For generating PDF reports.
-#output 
+#output ![Image](https://github.com/user-attachments/assets/69956f63-8c95-4d70-a290-24e8384c41e0)
